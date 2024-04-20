@@ -1,0 +1,91 @@
+,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Season,Competition
+0,1,Bayern Munich,34,21,8,5,92,38,54,71,2022-2023,Bundesliga
+1,2,Dortmund,34,22,5,7,83,44,39,71,2022-2023,Bundesliga
+2,3,RB Leipzig,34,20,6,8,64,41,23,66,2022-2023,Bundesliga
+3,4,Union Berlin,34,18,8,8,51,38,13,62,2022-2023,Bundesliga
+4,5,Freiburg,34,17,8,9,51,44,7,59,2022-2023,Bundesliga
+5,6,Leverkusen,34,14,8,12,57,49,8,50,2022-2023,Bundesliga
+6,7,Eint Frankfurt,34,13,11,10,58,52,6,50,2022-2023,Bundesliga
+7,8,Wolfsburg,34,13,10,11,57,48,9,49,2022-2023,Bundesliga
+8,9,Mainz 05,34,12,10,12,54,55,-1,46,2022-2023,Bundesliga
+9,10,M'Gladbach,34,11,10,13,52,55,-3,43,2022-2023,Bundesliga
+10,11,Köln,34,10,12,12,49,54,-5,42,2022-2023,Bundesliga
+11,12,Hoffenheim,34,10,6,18,48,57,-9,36,2022-2023,Bundesliga
+12,13,Werder Bremen,34,10,6,18,51,64,-13,36,2022-2023,Bundesliga
+13,14,Bochum,34,10,5,19,40,72,-32,35,2022-2023,Bundesliga
+14,15,Augsburg,34,9,7,18,42,63,-21,34,2022-2023,Bundesliga
+15,16,Stuttgart,34,7,12,15,45,57,-12,33,2022-2023,Bundesliga
+16,17,Schalke 04,34,7,10,17,35,71,-36,31,2022-2023,Bundesliga
+17,18,Hertha BSC,34,7,8,19,42,69,-27,29,2022-2023,Bundesliga
+0,1,Bayern Munich,34,24,5,5,97,37,60,77,2021-2022,Bundesliga
+1,2,Dortmund,34,22,3,9,85,52,33,69,2021-2022,Bundesliga
+2,3,Leverkusen,34,19,7,8,80,47,33,64,2021-2022,Bundesliga
+3,4,RB Leipzig,34,17,7,10,72,37,35,58,2021-2022,Bundesliga
+4,5,Union Berlin,34,16,9,9,50,44,6,57,2021-2022,Bundesliga
+5,6,Freiburg,34,15,10,9,58,46,12,55,2021-2022,Bundesliga
+6,7,Köln,34,14,10,10,52,49,3,52,2021-2022,Bundesliga
+7,8,Mainz 05,34,13,7,14,50,45,5,46,2021-2022,Bundesliga
+8,9,Hoffenheim,34,13,7,14,58,60,-2,46,2021-2022,Bundesliga
+9,10,M'Gladbach,34,12,9,13,54,61,-7,45,2021-2022,Bundesliga
+10,11,Eint Frankfurt,34,10,12,12,45,49,-4,42,2021-2022,Bundesliga
+11,12,Wolfsburg,34,12,6,16,43,54,-11,42,2021-2022,Bundesliga
+12,13,Bochum,34,12,6,16,38,52,-14,42,2021-2022,Bundesliga
+13,14,Augsburg,34,10,8,16,39,56,-17,38,2021-2022,Bundesliga
+14,15,Stuttgart,34,7,12,15,41,59,-18,33,2021-2022,Bundesliga
+15,16,Hertha BSC,34,9,6,19,37,71,-34,33,2021-2022,Bundesliga
+16,17,Arminia,34,5,13,16,27,53,-26,28,2021-2022,Bundesliga
+17,18,Greuther Fürth,34,3,9,22,28,82,-54,18,2021-2022,Bundesliga
+0,1,Bayern Munich,34,24,6,4,99,44,55,78,2020-2021,Bundesliga
+1,2,RB Leipzig,34,19,8,7,60,32,28,65,2020-2021,Bundesliga
+2,3,Dortmund,34,20,4,10,75,46,29,64,2020-2021,Bundesliga
+3,4,Wolfsburg,34,17,10,7,61,37,24,61,2020-2021,Bundesliga
+4,5,Eint Frankfurt,34,16,12,6,69,53,16,60,2020-2021,Bundesliga
+5,6,Leverkusen,34,14,10,10,53,39,14,52,2020-2021,Bundesliga
+6,7,Union Berlin,34,12,14,8,50,43,7,50,2020-2021,Bundesliga
+7,8,M'Gladbach,34,13,10,11,64,56,8,49,2020-2021,Bundesliga
+8,9,Stuttgart,34,12,9,13,56,55,1,45,2020-2021,Bundesliga
+9,10,Freiburg,34,12,9,13,52,52,0,45,2020-2021,Bundesliga
+10,11,Hoffenheim,34,11,10,13,52,54,-2,43,2020-2021,Bundesliga
+11,12,Mainz 05,34,10,9,15,39,56,-17,39,2020-2021,Bundesliga
+12,13,Augsburg,34,10,6,18,36,54,-18,36,2020-2021,Bundesliga
+13,14,Hertha BSC,34,8,11,15,41,52,-11,35,2020-2021,Bundesliga
+14,15,Arminia,34,9,8,17,26,52,-26,35,2020-2021,Bundesliga
+15,16,Köln,34,8,9,17,34,60,-26,33,2020-2021,Bundesliga
+16,17,Werder Bremen,34,7,10,17,36,57,-21,31,2020-2021,Bundesliga
+17,18,Schalke 04,34,3,7,24,25,86,-61,16,2020-2021,Bundesliga
+0,1,Bayern Munich,34,26,4,4,100,32,68,82,2019-2020,Bundesliga
+1,2,Dortmund,34,21,6,7,84,41,43,69,2019-2020,Bundesliga
+2,3,RB Leipzig,34,18,12,4,81,37,44,66,2019-2020,Bundesliga
+3,4,M'Gladbach,34,20,5,9,66,40,26,65,2019-2020,Bundesliga
+4,5,Leverkusen,34,19,6,9,61,44,17,63,2019-2020,Bundesliga
+5,6,Hoffenheim,34,15,7,12,53,53,0,52,2019-2020,Bundesliga
+6,7,Wolfsburg,34,13,10,11,48,46,2,49,2019-2020,Bundesliga
+7,8,Freiburg,34,13,9,12,48,47,1,48,2019-2020,Bundesliga
+8,9,Eint Frankfurt,34,13,6,15,59,60,-1,45,2019-2020,Bundesliga
+9,10,Hertha BSC,34,11,8,15,48,59,-11,41,2019-2020,Bundesliga
+10,11,Union Berlin,34,12,5,17,41,58,-17,41,2019-2020,Bundesliga
+11,12,Schalke 04,34,9,12,13,38,58,-20,39,2019-2020,Bundesliga
+12,13,Mainz 05,34,11,4,19,44,65,-21,37,2019-2020,Bundesliga
+13,14,Köln,34,10,6,18,51,69,-18,36,2019-2020,Bundesliga
+14,15,Augsburg,34,9,9,16,45,63,-18,36,2019-2020,Bundesliga
+15,16,Werder Bremen,34,8,7,19,42,69,-27,31,2019-2020,Bundesliga
+16,17,Düsseldorf,34,6,12,16,36,67,-31,30,2019-2020,Bundesliga
+17,18,Paderborn 07,34,4,8,22,37,74,-37,20,2019-2020,Bundesliga
+0,1,Bayern Munich,34,24,6,4,88,32,56,78,2018-2019,Bundesliga
+1,2,Dortmund,34,23,7,4,81,44,37,76,2018-2019,Bundesliga
+2,3,RB Leipzig,34,19,9,6,63,29,34,66,2018-2019,Bundesliga
+3,4,Leverkusen,34,18,4,12,69,52,17,58,2018-2019,Bundesliga
+4,5,M'Gladbach,34,16,7,11,55,42,13,55,2018-2019,Bundesliga
+5,6,Wolfsburg,34,16,7,11,62,50,12,55,2018-2019,Bundesliga
+6,7,Eint Frankfurt,34,15,9,10,60,48,12,54,2018-2019,Bundesliga
+7,8,Werder Bremen,34,14,11,9,58,49,9,53,2018-2019,Bundesliga
+8,9,Hoffenheim,34,13,12,9,70,52,18,51,2018-2019,Bundesliga
+9,10,Düsseldorf,34,13,5,16,49,65,-16,44,2018-2019,Bundesliga
+10,11,Hertha BSC,34,11,10,13,49,57,-8,43,2018-2019,Bundesliga
+11,12,Mainz 05,34,12,7,15,46,57,-11,43,2018-2019,Bundesliga
+12,13,Freiburg,34,8,12,14,46,61,-15,36,2018-2019,Bundesliga
+13,14,Schalke 04,34,8,9,17,37,55,-18,33,2018-2019,Bundesliga
+14,15,Augsburg,34,8,8,18,51,71,-20,32,2018-2019,Bundesliga
+15,16,Stuttgart,34,7,7,20,32,70,-38,28,2018-2019,Bundesliga
+16,17,Hannover 96,34,5,6,23,31,71,-40,21,2018-2019,Bundesliga
+17,18,Nürnberg,34,3,10,21,26,68,-42,19,2018-2019,Bundesliga
